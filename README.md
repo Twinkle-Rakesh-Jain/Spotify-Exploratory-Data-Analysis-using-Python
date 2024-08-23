@@ -1,5 +1,8 @@
 # Spotify-Exploratory-Data-Analysis-using-Python
 
+![image](https://github.com/user-attachments/assets/bb448cc1-636e-4336-8b0c-e748d3aa52fe)
+
+
 
 ## Problem Statement:
 The project aimed to analyze patterns in music data from 1922 to 2021 to uncover trends in song popularity, duration, genre characteristics, and relationships between various audio features. The goal was to gain insights into the evolution of music consumption and production over the years.
